@@ -1,0 +1,8 @@
+2026-06-03 10:53:00,474 - __main__ - INFO - Deposited $500.00 to account ACC-20260603105300-b8a28699
+2026-06-03 10:53:00,475 - __main__ - INFO - Operation: deposit | Duration: 0.59ms
+2026-06-03 10:53:00,475 - __main__ - INFO - Deposited $100.00 to account ACC-20260603105300-b8a28699
+2026-06-03 10:53:00,475 - __main__ - INFO - Operation: deposit | Duration: 0.21ms
+2026-06-03 10:53:00,475 - __main__ - INFO - Withdrew $200.00 from account ACC-20260603105300-b8a28699
+2026-06-03 10:53:00,476 - __main__ - INFO - Operation: withdraw | Duration: 0.19ms
+2026-06-03 10:53:00,476 - __main__ - WARNING - Attempt 1 failed: Insufficient funds. Balance: $900.00, Overdraft limit: $0.00, Requested: $1000.00. Retrying...
+2026-06-03 10:53:01,477 - __main__ - INFO - No backup file found, starting fresh
